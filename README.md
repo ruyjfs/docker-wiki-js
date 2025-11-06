@@ -1,6 +1,6 @@
 # Wiki.JS
 
-A base de conhecimento é de extrema importancia em qualquer área e lugar, por caso o time não tenha uma base de conhecimento eu sempre sugiro a Wiki.JS por ser open-source, de fácil implementação e tem integração com outras ferramentas como o próprio Ldap, integrando com os usuários da rede sem precisar de um novo cadastro na Wiki, e também outras integrações.
+A base de conhecimento é de extrema importancia em qualquer área e local, por isso, caso o time não tenha uma base de conhecimento eu sempre sugiro a Wiki.JS por ser open-source, de fácil implementação e tem integração com outras ferramentas como o próprio Ldap, integrando com os usuários da rede sem precisar de um novo cadastro na Wiki, e também outras integrações.
 
 O objetivo é centralizar informações técnicas, documentações de sistemas, processos internos e boas práticas adotadas pela equipe de tecnologia, garantindo fácil acesso e colaboração entre os times.
 
