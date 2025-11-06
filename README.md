@@ -1,10 +1,10 @@
-# SEAD Wiki.JS
+# Wiki.JS
 
-A base de conhecimento da SEAD.
+A base de conhecimento é de extrema importancia em qualquer área e lugar, por caso o time não tenha uma base de conhecimento eu sempre sugiro a Wiki.JS por ser open-source, de fácil implementação e tem integração com outras ferramentas como o próprio Ldap, integrando com os usuários da rede sem precisar de um novo cadastro na Wiki, e também outras integrações.
 
-O objetivo é centralizar informações técnicas, documentações de sistemas, processos internos e boas práticas adotadas pela equipe de tecnologia da SEAD, garantindo fácil acesso e colaboração entre os times.
+O objetivo é centralizar informações técnicas, documentações de sistemas, processos internos e boas práticas adotadas pela equipe de tecnologia, garantindo fácil acesso e colaboração entre os times.
 
-Este repositório contém a configuração Docker do **Wiki.JS**, a plataforma de **base de conhecimento interna da SEAD (Secretaria de Estado da Administração de Goiás)**.
+Este repositório contém a configuração Docker do **Wiki.JS**, a plataforma de **base de conhecimento**.
 
 ---
 
@@ -35,7 +35,7 @@ graph TD
 1. Clone este repositório
 
 ```bash
-git clone https://codigo.dev.tools.go.gov.br/home-sead/geds/projetos-especiais/wiki-js.git
+git clone https://github.com/ruyjfs/docker-wiki-js.git
 cd wiki-js
 ```
 
@@ -95,7 +95,7 @@ A Wiki está organizada em áreas temáticas estratégicas:
     • Infraestrutura e DevOps
     • Documentação de Sistemas
     • Processos Internos
-    • Guia de Desenvolvimento SEAD
+    • Guia de Desenvolvimento
     • Ambiente e Padronizações
 
 ### Tecnologias Utilizadas
@@ -105,8 +105,3 @@ A Wiki está organizada em áreas temáticas estratégicas:
     •	PostgreSQL￼
     •	Mermaid￼ (para diagramas no README)
 
-⸻
-
-### Sobre a SEAD
-
-A Secretaria de Estado da Administração de Goiás (SEAD) tem como missão promover a modernização administrativa e tecnológica do Governo do Estado, apoiando a transformação digital, a gestão de conhecimento e a eficiência dos serviços públicos.
